@@ -7,11 +7,7 @@
 <a href="mailto:rahul.jaiswal1997@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://docs.google.com/document/d/15ej4J9ERnGbCKUgiYHkarIHOpEqubcLgcbJTCjnwQB4/edit#"><img src="https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
 
-
-
 ## 🙋‍♂️ About Me
-
-
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
@@ -24,14 +20,10 @@
 ### 🔭 **Technology Stack**
 
 #### **Languages**: <br>
-<br>
 <img height=25 src="https://img.shields.io/badge/java-%23007ACC.svg?style=for-the-badge&logo=&logoColjavaor=white">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;
-<img height=25 src="https://img.shields.io/badge/javascript-%23323330
-.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;&nbsp;
+<img height=25 src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">&nbsp;&nbsp;<br>
-
-<br>
 
 #### **Frameworks, Platforms and Libraries**:
 <br>
@@ -53,8 +45,6 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-
-<br/>
 <br/>
 <p align="center">
     <a href="https://github.com/raul1258/github-readme-streak-stats">
