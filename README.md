@@ -9,7 +9,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Data Structures and Algorithms and FrontEnd Development.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
