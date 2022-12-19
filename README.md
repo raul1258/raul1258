@@ -5,7 +5,7 @@
 
 <a href="https://www.linkedin.com/in/rauljaiswal/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:rahul.jaiswal1997@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://docs.google.com/document/d/15ej4J9ERnGbCKUgiYHkarIHOpEqubcLgcbJTCjnwQB4/edit#"><img src="https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
+<a href="https://docs.google.com/document/d/15ej4J9ERnGbCKUgiYHkarIHOpEqubcLgcbJTCjnwQB4/edit?usp=sharing"><img src="https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
 
 ## 🙋‍♂️ About Me
 
